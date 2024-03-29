@@ -1,0 +1,13 @@
+[UNK]
+AG
+AC
+AT
+GA
+GC
+GT
+CA
+CG
+CT
+TA
+TG
+TC
